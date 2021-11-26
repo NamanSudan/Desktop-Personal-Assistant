@@ -1,0 +1,10 @@
+This program is based upon the concept of diary
+
+Features:-
+
+1) You can speak out things which you want to write/save in your diary or you can type it also with hide and show feature so that nobody can see what your are writing.
+
+2) You can hide photos and then load the hidden/encrypted photos using this program. #Dont delete the original copy as this program just reads the encrpyted photo and show it to you.
+
+3) it also has light and dark theme feature 
+
